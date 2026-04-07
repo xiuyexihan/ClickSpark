@@ -1,0 +1,5 @@
+# ClickSpark 依赖
+PyQt6>=6.5.0
+pynput>=1.7.6
+pywin32>=306
+pyinstaller>=6.0
